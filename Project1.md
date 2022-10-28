@@ -1,4 +1,4 @@
-## Awesome Documentation of Project 1
+## Awesome Documentation of Project 1 of DevOps 
 
 `sudo apt update`
 `sudo apt install apache2`
